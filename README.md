@@ -252,7 +252,6 @@ if __name__ == '__main__':
 ```
 
 ## 7. Conclusion
-This report provided a comprehensive exploratory data analysis and built a logistic regression model to predict diabetes outcomes. The interactive Dash app allows further exploration of the dataset.
-
+This report provided a comprehensive exploratory data analysis and built a logistic regression model to predict diabetes outcomes. 
 ---
 
